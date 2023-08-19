@@ -27,7 +27,7 @@ button {
     align-items: center;
     height: 100vh;
     background-color: #282a36;
-    min-height: 400px;
+    
 }
 
 .thunar-window {
@@ -36,6 +36,7 @@ button {
     border-radius: 5px;
     width: 80%;
     max-width: 1240px;
+    min-height: 400px;
 }
 
 .header {
