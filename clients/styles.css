@@ -35,6 +35,7 @@ button {
     border-radius: 5px;
     width: 80%;
     max-width: 1240px;
+    min-height: 400px;
 }
 
 .header {
@@ -75,11 +76,13 @@ button {
     display: grid;
     grid-template-columns: 3fr 8fr;
     color: white;
+    min-height: 400px;
 }
 
 .sidebar {
     background-color: #232530;
     padding: .5rem 1rem;
+    min-height: 400px;
 }
 
 .custom-list {

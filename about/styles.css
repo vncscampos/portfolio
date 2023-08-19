@@ -27,6 +27,7 @@ button {
     align-items: center;
     height: 100vh;
     background-color: #282a36;
+    min-height: 400px;
 }
 
 .thunar-window {
@@ -75,11 +76,13 @@ button {
     display: grid;
     grid-template-columns: 3fr 8fr;
     color: white;
+    min-height: 400px;
 }
 
 .sidebar {
     background-color: #232530;
     padding: .5rem 1rem;
+    min-height: 400px;
 }
 
 .custom-list {
